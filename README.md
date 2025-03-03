@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💪 Strong hands-on experience in design, creation and maintenance of software developed in Java 
+💪 Strong hands-on experience in design, creation and maintenance of software developed in Java
+
 🌐 Experience as a Full Stack Developer (ReactJs) 
+
 🏛️ Familiar with different kinds of software architecture, have practical experience with microservices and monolithic. 
+
 🛠️ Hands on experience in Spring, SQL, Unit testing, VCS, Docker, Virtual Machines, Build tools, etc.
+
 👨‍🏫 Mentorship and onboarding 📝 Knowledge and skills in documenting processes 
-🚀 Proactive and enthusiastic about code quality and love to apply the best development practices 
+
+🚀 Proactive and enthusiastic about code quality and love to apply the best development practices
+
 🔧 Experienced in Level 3 Production system support
